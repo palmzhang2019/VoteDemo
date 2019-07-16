@@ -1,0 +1,4 @@
+contracts/Voting    投票合约
+migrations/2_migration_vote     部署文件
+src/js/app.js   合约与前端的交互
+./bs-config.json    lite-server的配置文件
